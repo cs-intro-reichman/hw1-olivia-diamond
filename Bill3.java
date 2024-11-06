@@ -14,7 +14,7 @@ public class Bill3 {
 		//System.out.println("Pay " + splitRoundUp + " Shekels each.");
 
 		System.out.println("Dear " + name1 + ", " + name2 + ", and " + name3 +": pay " + splitRoundUp + " Shekels each." );
-
+			//NEW COMM2
 			}
 				}
 
