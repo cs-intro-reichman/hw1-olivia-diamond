@@ -12,7 +12,7 @@ public class FVCalc {
 
 		double futureValue = currentValue * brackets;
 
-		System.out.println("After " + (int)n + " years, $" + currentValue + " saved at " + rate + "%" + " will yield $" + (int)futureValue);
+		System.out.println("After " + (int)n + " years, a $" + currentValue + " saved at " + rate + "%" + " will yield $" + (int)futureValue);
 
 
 
