@@ -6,7 +6,7 @@ public class TimeFormat {
 		// by the single command-line string argument args[0]. 
 
 		String timeInput = args[0];
-		System.out.println(timeInput);
+		//System.out.println(timeInput);
 
 		//split the string into hours and minutes using String.split()
 		String[] timeParts = timeInput.split(":");
