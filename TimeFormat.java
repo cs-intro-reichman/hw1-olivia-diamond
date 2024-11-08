@@ -34,9 +34,9 @@ public class TimeFormat {
 			strMinutes = "0" + strMinutes;
 
 		if (minutes>=10){
-			System.out.println(hours + ":" + minutes + suffix);
+			System.out.println(hours + ":" + minutes + " " + suffix);
 		}else{
-			System.out.println(hours + ":" + strMinutes + suffix);
+			System.out.println(hours + ":" + strMinutes + " " + suffix);
 		}
 	}
 }
